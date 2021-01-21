@@ -2,11 +2,11 @@
 
 Buka CMD
 Lalu clone repository
-> git clone https://github.com/onesyah05/api-wa
+> **git clone https://github.com/onesyah05/api-wa**
 
 setelah selesai ketikan
 
-> npm install
+> **npm install**
 
 untuk menjalankan server ketik
->npm run start
+> **npm run start**
