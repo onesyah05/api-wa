@@ -2,7 +2,7 @@
 
 Buka CMD
 Lalu clone repository
-> **git clone https://github.com/onesyah05/api-wa**
+> ```git clone https://github.com/onesyah05/api-wa```
 
 setelah selesai ketikan
 
