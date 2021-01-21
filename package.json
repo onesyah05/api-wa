@@ -1,0 +1,26 @@
+{
+  "name": "wa-api",
+  "version": "1.0.0",
+  "description": "tes",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "circular-json": "^0.5.9",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "qrcode-terminal": "^0.12.0",
+    "translate-api": "^0.3.18",
+    "unirest": "^0.6.0",
+    "whatsapp-web.js": "^1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
